@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm Devesh pareek
 
-<!--
-**thedeveshpareek/thedeveshpareek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -14,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: thedeveshpareek@gmail.com or my you tube channel.
 - 😄 Pronouns: Devesh pareek
 - ⚡ Fun fact: sporty nature.
--->
