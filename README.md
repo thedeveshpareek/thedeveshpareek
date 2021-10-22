@@ -6,11 +6,11 @@
 
 - 👨‍💻 All of my projects are available at [repositories](https://github.com/thedeveshpareek?tab=repositories)
 
-- 📝 I regulary create content on my skills.
+- 📝 I regulary work on my skills.
 
-- 💬 Ask me about **Machine-Learning**,**web-development** , **Python**, 
+- 💬 Ask me about anything (like datascience,python..)
 
-- 📫 How to reach me **thedeveshpareek@gmail.com**
+- 📫 How to reach me [linkedin](https://www.linkedin.com/in/thedeveshpareek/),[instagram](https://www.instagram.com/accounts/onetap/?next=%2F)
 
 
 
