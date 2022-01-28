@@ -21,6 +21,6 @@
 <div style={{display:'flex',flexDirection:'row'}}>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thedeveshpareek&show_icons=true&locale=en&layout=compact" alt="thedeveshpareek" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thedeveshpareek&show_icons=true&locale=en" alt="thedeveshpareek" /></p>
+<p style={{width:'50%'}}>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thedeveshpareek&show_icons=true&locale=en" alt="thedeveshpareek" /></p>
 
 </div>
