@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devesh Pareek</h1>
-<h3 align="center">full-Stack Web developer,Freelancer</h3>
+<h3 align="center">A passionate full-Stack Web developer,Freelancer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thedeveshpareek&label=Profile%20views&color=0e75b6&style=flat" alt="thedeveshpareek" /> </p>
 
@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **Web-development,React,Python,Javascript,Data-Science,Machine-Learning**
 
-- 📫 How to reach me **[Gmail](thedeveshpareek@gmail.com)**
+- 📫 How to reach me **[Email](thedeveshpareek@gmail.com)**
 
-- ⚡ Fun fact **I pass my free time to do making some funny stats**
+- ⚡ Fun fact **Travelling and Riding **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
